@@ -31,7 +31,7 @@ public class Library {
         this.address = address;
     }
 
-    public void addBook(Books bookN) {
+    public void addBook(Book bookN) {
         bookList.add(bookN);
     }
 }
